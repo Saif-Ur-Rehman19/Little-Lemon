@@ -1,1 +1,4 @@
-#little-lemon
+![WhatsApp Image 2023-06-18 at 4 24 40 PM](https://github.com/Saif-Ur-Rehman19/Little-Lemon/assets/58853106/59ece08e-7b12-40b0-9cf2-83359d5c5a21)This is a react native app for checking the menu of a fictitious restaurent called Little Lemon. The app will fetch the data from the restaurent API and show it in the app and store it in SQLite database. The user has the option to filter the menu using search option or just pressing the categories buttons. The app has login and logout functionality as well. He/she can also upload photo of himself/herself
+![Uploading WhatsApp Image 2023-06-18 at 4.24.40 PM.jpeg…]![WhatsApp Image 2023-06-18 at 4 24 41 PM (1)](https://github.com/Saif-Ur-Rehman19/Little-Lemon/assets/58853106/2ee1843f-472a-4d99-84cf-595ac219288c)
+()
+![WhatsApp Image 2023-06-18 at 4 24 41 PM](https://github.com/Saif-Ur-Rehman19/Little-Lemon/assets/58853106/dd5b9058-6bd4-4305-9670-c80a0279cfbf)
