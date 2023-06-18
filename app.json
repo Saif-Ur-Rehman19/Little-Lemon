@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "LittleLemon",
-    "slug": "LittleLemon",
+    "slug": "littlelemon",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/littlelemon.png",
+    "icon": "./assets/littlemon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -23,8 +23,8 @@
         "READ_EXTERNAL_STORAGE"
       ],
       "adaptiveIcon": {
-        "foregroundImage": "./assets/littlelemon.png",
-        "backgroundColor": "green"
+        "foregroundImage": "./assets/littlemon.png",
+        "backgroundColor": "#ffffff"
       },
       "package": "com.saifurrehman.LittleLemon"
     },
@@ -33,8 +33,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "d321db5b-6e59-48f9-b917-fc3a6c1f8890"
+        "projectId": "1e75b411-9d05-44db-a8f2-f20b1ecba6d6"
       }
-    }
+    },
+    "owner": "saif12345"
   }
 }
