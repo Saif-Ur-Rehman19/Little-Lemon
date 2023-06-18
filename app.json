@@ -4,7 +4,7 @@
     "slug": "LittleLemon",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/littlelemon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -18,14 +18,23 @@
       "supportsTablet": true
     },
     "android": {
-      "permissions": ["WRITE_EXTERNAL_STORAGE", "READ_EXTERNAL_STORAGE"],
+      "permissions": [
+        "WRITE_EXTERNAL_STORAGE",
+        "READ_EXTERNAL_STORAGE"
+      ],
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/littlelemon.png",
+        "backgroundColor": "green"
+      },
+      "package": "com.saifurrehman.LittleLemon"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d321db5b-6e59-48f9-b917-fc3a6c1f8890"
+      }
     }
   }
 }
